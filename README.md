@@ -1,2 +1,28 @@
 # Mini-twitting-website
-A mini Twitter-like social media web application built using PHP, MySQL, and HTML. It allows users to register, log in, post tweets, interact with content, and manage sessions. The project demonstrates full-stack development concepts including database design, user authentication, and dynamic content handling.
+
+A mini Twitter-like social media web application built using PHP, MySQL, and HTML.
+
+## 🚀 Features
+- User registration & login system
+- Post tweets
+- Explore posts
+- Edit profile
+- Session management
+
+## 🛠 Tech Stack
+- PHP
+- MySQL
+- HTML/CSS
+
+## 📂 Project Structure
+- actions/ → backend logic
+- css/ → styling
+- js/ → scripts
+
+## ⚙️ How to Run
+1. Clone the repository
+2. Import database.sql into MySQL
+3. Run on localhost (XAMPP/WAMP)
+
+## 📌 Note
+This is a learning project to understand full-stack development.
